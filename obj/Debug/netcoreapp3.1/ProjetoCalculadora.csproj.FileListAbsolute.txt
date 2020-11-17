@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/ProjetoCalculadora/bin/Debug/netcoreapp3.1/ProjetoCalculadora
+/home/maiara/Área de Trabalho/ProjetoCalculadora/bin/Debug/netcoreapp3.1/ProjetoCalculadora.deps.json
+/home/maiara/Área de Trabalho/ProjetoCalculadora/bin/Debug/netcoreapp3.1/ProjetoCalculadora.runtimeconfig.json
+/home/maiara/Área de Trabalho/ProjetoCalculadora/bin/Debug/netcoreapp3.1/ProjetoCalculadora.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/ProjetoCalculadora/bin/Debug/netcoreapp3.1/ProjetoCalculadora.dll
+/home/maiara/Área de Trabalho/ProjetoCalculadora/bin/Debug/netcoreapp3.1/ProjetoCalculadora.pdb
+/home/maiara/Área de Trabalho/ProjetoCalculadora/obj/Debug/netcoreapp3.1/ProjetoCalculadora.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/ProjetoCalculadora/obj/Debug/netcoreapp3.1/ProjetoCalculadora.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/ProjetoCalculadora/obj/Debug/netcoreapp3.1/ProjetoCalculadora.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/ProjetoCalculadora/obj/Debug/netcoreapp3.1/ProjetoCalculadora.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/ProjetoCalculadora/obj/Debug/netcoreapp3.1/ProjetoCalculadora.dll
+/home/maiara/Área de Trabalho/ProjetoCalculadora/obj/Debug/netcoreapp3.1/ProjetoCalculadora.pdb
+/home/maiara/Área de Trabalho/ProjetoCalculadora/obj/Debug/netcoreapp3.1/ProjetoCalculadora.genruntimeconfig.cache
